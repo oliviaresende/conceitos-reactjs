@@ -26,13 +26,13 @@ Essa será uma aplicação para listar, adicionar e remover repositórios do seu
 2. **Clonar o repositório** em sua máquina, usando comando abaixo em seu terminal:
 
 ```
-  git clone https://github.com/oliviaresende/conceitos-reactjs.git
+  git clone https://github.com/oliviaresende/concepts-reactjs.git
 ```
 
 3. **Acessar o repositório**:
 
 ```
-  cd conceitos-reactjs
+  cd concepts-reactjs
 ```
 
 4. Agora basta **instalar as dependências** do seu projeto, digitando no terminal:
